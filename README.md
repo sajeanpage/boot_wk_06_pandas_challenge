@@ -1,6 +1,6 @@
 # Pandas Challenge
 
-In the challenge I wa asked to use Pandas and Jupyter Notebook to create a report that includes the following data:
+In this challenge I was asked to use Pandas and Jupyter Notebook to create a report that includes the following data:
 - District Summary
 - School Summary
 - Highest-Performing Schools (by % Overall Passing)
