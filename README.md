@@ -13,7 +13,11 @@ In this challenge I was asked to use Pandas and Jupyter Notebook to create a rep
 - Scores by School Size
 - Scores by School Type
   
-The result: [Analysis.txt](/PyBank/Analysis/Analysis.txt)
+## Summary observations from the analyzed data: 
+ - Charter schools outperformed District schools yielding higher scores and passing percentages in all measured areas on average. 
+ - Large schools (2500+) underperformed all other school size categories yielding lower scores and passing percentages in all measured areas on average. 
+ - Schools that spent $625 per student or greater underperformed schools that did not, yielding lower scores and passing percentages in all measured areas on average.
+
 
 ![pandas code](/PyCitySchools/Resources/pysol.gif)
 
