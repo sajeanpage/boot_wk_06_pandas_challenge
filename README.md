@@ -15,5 +15,5 @@ In this challenge I was asked to use Pandas and Jupyter Notebook to create a rep
   
 The result: [Analysis.txt](/PyBank/Analysis/Analysis.txt)
 
-![pybank code](/PyBank/Resources/pybank.gif)
+![pandas code](/Resources/pysol.gif)
 
